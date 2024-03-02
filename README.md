@@ -1,1 +1,1 @@
-El juego posee una sección de código donde se puede alojar un fondo para la page.Más presenta un inconveniente de superposición de imagen por lo que esa sección está "cpmentada" para que no afecte el funcionamiento del juego.
+El juego posee una sección de código donde se puede alojar un fondo para la page.Más presenta un inconveniente de superposición de imagen por lo que esa sección está "comentada" para que no afecte el funcionamiento del juego.
